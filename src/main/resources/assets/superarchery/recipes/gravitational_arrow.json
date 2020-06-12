@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABX",
+    " Y ",
+    " Z "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:flint"
+    },
+    "X": {
+      "item": "minecraft:magma_cream"
+    },
+    "A": {
+      "item": "minecraft:water_bucket"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    },
+    "Z": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "gravitational_arrow"
+  }
+}

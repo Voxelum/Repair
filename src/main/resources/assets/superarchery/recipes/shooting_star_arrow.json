@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XA ",
+    " Y ",
+    " Z "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:slime_ball"
+    },
+    "A": {
+      "item": "minecraft:flint"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    },
+    "Z": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "shooting_star_arrow"
+  }
+}
